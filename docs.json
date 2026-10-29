@@ -56,13 +56,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@mintlify.com"
+        "href": "mailto:ifno@nerva.live"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Home",
+      "href": "https://www.nerva.live"
     }
   },
   "contextual": {
