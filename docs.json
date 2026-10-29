@@ -16,8 +16,23 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Features",
+        "pages": [
+          "features/multi-model-chat",
+          "features/privacy-mode",
+          "features/real-time-web",
+          "features/algorithmic-human",
+          "features/image-video-gen",
+          "features/voice-speech",
+          "features/skills-workflows",
+          "features/manager-mode",
+          "features/code-copilot"
+        ]
       }
     ],
+    
     "global": {
       "anchors": [
         {
